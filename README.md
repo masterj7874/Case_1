@@ -1,4 +1,4 @@
-Option 1: Sentiment Identification
+Sentiment Identification
 BACKGROUND
 A large multinational corporation is seeking to automatically identify the sentiment that their customer base talks
 about on social media. They would like to expand this capability into multiple languages. Many 3rd party tools exist for
